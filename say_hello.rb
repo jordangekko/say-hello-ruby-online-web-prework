@@ -1,1 +1,1 @@
-def say_hello("Gabriella")
+def say_hello("Gabriella has_and_belongs_to_many)"
